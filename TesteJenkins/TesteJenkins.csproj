@@ -12,5 +12,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
-
+  <Target Name="HelloWorld">
+  <Message Text="Hello"></Message>  <Message Text="World"></Message>
+</Target>
 </Project>
