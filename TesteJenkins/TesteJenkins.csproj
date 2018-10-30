@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <Content Update="web.config">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <Target Name="HelloWorld">
