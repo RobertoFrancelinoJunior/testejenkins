@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteJenkins", "TesteJenkins\TesteJenkins.csproj", "{D7D3EBB7-CC6E-4CAB-831A-428812EB3C20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteJenkins471", "TesteJenkins471\TesteJenkins471.csproj", "{B5520DAE-826F-4304-B8A9-F173C1878A2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D7D3EBB7-CC6E-4CAB-831A-428812EB3C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7D3EBB7-CC6E-4CAB-831A-428812EB3C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7D3EBB7-CC6E-4CAB-831A-428812EB3C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7D3EBB7-CC6E-4CAB-831A-428812EB3C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5520DAE-826F-4304-B8A9-F173C1878A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5520DAE-826F-4304-B8A9-F173C1878A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5520DAE-826F-4304-B8A9-F173C1878A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5520DAE-826F-4304-B8A9-F173C1878A2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
